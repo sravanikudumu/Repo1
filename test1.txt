@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 56FA-DDDB
+
+ Directory of C:\Users\IBM_ADMIN\Desktop\My project
+
+06/12/2017  03:56 PM    <DIR>          .
+06/12/2017  03:56 PM    <DIR>          ..
+06/12/2017  03:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  226,143,105,024 bytes free
